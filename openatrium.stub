@@ -1,7 +1,0 @@
-api = 2
-core = 6.x
-projects[drupal][version] = 6.20
-projects[openatrium][type] = "profile"
-projects[openatrium][download][type] = "git"
-projects[openatrium][download][url] = "http://git.drupal.org/project/openatrium.git"
-projects[openatrium][download][branch] = "master"
