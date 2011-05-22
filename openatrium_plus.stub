@@ -10,7 +10,7 @@ projects[openatrium][download][branch] = "master"
 
 ; Include requirements
 includes[core-requirements] = "https://github.com/signedesign/make_files/raw/master/6/core-requirements.make"
-includes[interface] = "https://github.com/signedesign/make_files/raw/master/signedesign/interface.make"
+includes[interface] = "https://github.com/signedesign/make_files/raw/master/6/signedesign/interface.make"
 
 ; Include wysiwyg
 
